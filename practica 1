@@ -1,0 +1,62 @@
+Práctica semanal #1 (parte 1) "The Basics of GitHub"
+Erick Palacios
+•
+Jun 1
+100 points
+Buen día espero estén bien.
+
+
+Una vez que ya tengan creado su user de github cada persona debe dar click en la liga siguiente:
+
+
+https://classroom.github.com/a/cPcirENN
+
+
+Esto les creará un repo debajo de la organización de https://github.com/prope-2021-gh-classroom
+
+
+Esta práctica semanal # 1 (primera parte) nos da una introducción a Github y una breve intro a markdown y git.
+
+
+Lo que hay que hacer:
+
+
+
+* Leer y entender el README.md que encuentran en sus repos.
+
+
+
+* Realicen la sección de "Optional next steps" y revisen las ligas de "Resources" del README.md
+
+
+
+* Vean el siguiente video:
+
+
+https://youtu.be/z4Xpif7HI04
+
+
+que apoya la parte de creación de proyectos en github. Y revisen la siguiente liga:
+
+
+https://github.com/ITAM-DS/Propedeutico/tree/main/herramientas/git
+
+
+que les será útil para más referencias y comandos de git que se ejecutan en bash.
+
+
+
+Creen en un archivo dentro de sus repositorios con nombre:
+
+
+<reporte_user_de_github>.md
+
+
+
+Por ejemplo:
+
+
+reporte_palmoreck.md
+
+
+En este archivo hagan un resúmen de lo que aprendieron de Github, markdown, git y lo que ustedes consideren les ayuda como "acordeón".
